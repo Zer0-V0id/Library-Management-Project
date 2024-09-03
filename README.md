@@ -8,9 +8,7 @@ available in the library. It allows both the user and admin to search for the de
 …
 2. METHODOLOGY / PROCEDURE/ ALGORITHM
 We have used a basic menu for all the choices the user will have on opening the system.
-……………………..……………………..……………………..……………………..
 The user can select from a number of menu choices within the program of:
-……………………..……………………..……………………..……………………..……………………..……………………..……………………..……………………..……………………..……………………..……………………..……………………..……………………..……………………..
 1. Add book
 2. Update book
 3. Delete book
@@ -37,13 +35,11 @@ Choice 8 → display the students table
 4. MODULES OF THE PROPOSED WORK
 I. pymysql
 PyMySQL is a pure-Python MySQL client library, which means it is a Python package that creates an API interface for us to access MySQL relational databases.
-……………………..………………………………..……………………..……………………..……………………..…………..……………………..……………………..
+
 II. Pwinput
 A cross-platform Python module that displays **** for password input.
 
 This project on Library Management provides a computerized version of a physical library. This makes the working of the library much more efficient, quick and comfortable for students and the admin. User can search, issue and return books with a few clicks due to be returned books easily.
-……………..……………………..……………..……………………..……………..……………………..……………..……………………..
 A unique ID called ISBN is used in the system to provide unique identification to all users to effectively manage all students. This system saves a lot of time and solves the problems of a physical library.
-……………………..……………………..……………..……………………..
 It also eliminates the possibility of human error from the system. 
 
